@@ -1,0 +1,5 @@
+@import url("./assets/fonts/archivo/stylesheet.css");
+@import url("./assets/fonts/dayone/stylesheet.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
